@@ -509,4 +509,5 @@ app.run_server(debug=False)
     127.0.0.1 - - [20/Jun/2023 21:39:25] "POST /_dash-update-component HTTP/1.1" 200 -
     
 
+![image](https://github.com/BPhanuphong/Donut-Merchant-Analysis-with-web-scraping/assets/113247700/89b9fe77-3a82-4a85-a780-74a572c1d013)
 
